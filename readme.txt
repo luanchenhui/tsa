@@ -1,8 +1,7 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
+It is a practice to learn how to use GITHUB
 
-Git has a mutable index called stage.
+Hello ,world!
 
-Somthing wrong with the process.
-
-Author£ºLuanchenhui£¬Liyuru
+Author£ºLuanchenhui
