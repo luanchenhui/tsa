@@ -5,4 +5,4 @@ Git has a mutable index called stage.
 
 Somthing wrong with the process.
 
-Author£ºLuanchenhui
+Author£ºLuanchenhui£¬Liyuru
